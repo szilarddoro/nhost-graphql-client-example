@@ -1,0 +1,15 @@
+{
+  "name": "groq",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@nhost/nhost-js": "^2.0.0",
+    "graphql": "^16.6.0"
+  },
+  "devDependencies": {
+    "@graphql-codegen/cli": "^3.1.0",
+    "@graphql-codegen/typescript-nhost": "^0.0.1",
+    "typescript": "^4.9.5"
+  }
+}
