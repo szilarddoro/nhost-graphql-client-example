@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "codegen": "graphql-codegen"
+  },
   "dependencies": {
     "@nhost/nhost-js": "^2.0.0",
     "graphql": "^16.6.0"
