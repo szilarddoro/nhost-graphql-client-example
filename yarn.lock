@@ -964,10 +964,10 @@
     "@jridgewell/resolve-uri" "3.1.0"
     "@jridgewell/sourcemap-codec" "1.4.14"
 
-"@nhost/graphql-js@0.0.1":
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/@nhost/graphql-js/-/graphql-js-0.0.1.tgz#fd03aa966e0c35537f4dfda10b7bfc101f341914"
-  integrity sha512-mQEalS4b+v79kMbWUAqvK/vWMWf8qTjCsOP5rKS6FwcXx2HFWTOJtSb5h5BwnWC5veu7K4xoQsR5h2SluH41PQ==
+"@nhost/graphql-js@0.0.2":
+  version "0.0.2"
+  resolved "https://registry.yarnpkg.com/@nhost/graphql-js/-/graphql-js-0.0.2.tgz#1b065fd5546df2bf3268bd7ee47c046cbb642392"
+  integrity sha512-JgfKrdnIGubleuRnNM0gVHnXPsF1R9scqEaoPNznJggs2zLJ2b1m/l/uoILo+3Si6FdiHmE7C8Yrtuj/dBGk+w==
   dependencies:
     "@graphql-typed-document-node/core" "^3.1.1"
     cross-fetch "^3.1.5"
@@ -992,12 +992,12 @@
     form-data "^4.0.0"
     xstate "^4.33.5"
 
-"@nhost/nhost-js@^2.0.0":
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/@nhost/nhost-js/-/nhost-js-2.0.0.tgz#59eaa55fdd5d0f202c13c189b52115b37d77ecbf"
-  integrity sha512-L97uJAZfPuNzMI2ogP/JOchwPkeVfyYeNuv5TCzry6AWNQsjOAkE+rNAlAWoOzoqESCsNqokCAFCuoveH/JG7Q==
+"@nhost/nhost-js@^2.0.1":
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/@nhost/nhost-js/-/nhost-js-2.0.1.tgz#c4cc9d488e74c5ea2c852aafd4be54af55c3ffae"
+  integrity sha512-Fh/+DC6SxDd2+NVYAGgxAEXVDrGqXcYV5eARgRjIbjl4WVRY08O1zovl5B99pdWLKlw8HOcX0phMbTnqaKpDHw==
   dependencies:
-    "@nhost/graphql-js" "0.0.1"
+    "@nhost/graphql-js" "0.0.2"
     "@nhost/hasura-auth-js" "2.0.0"
     "@nhost/hasura-storage-js" "2.0.0"
     cross-fetch "^3.1.5"

@@ -7,7 +7,7 @@
     "codegen": "graphql-codegen"
   },
   "dependencies": {
-    "@nhost/nhost-js": "^2.0.0",
+    "@nhost/nhost-js": "^2.0.1",
     "graphql": "^16.6.0"
   },
   "devDependencies": {
